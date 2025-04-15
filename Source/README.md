@@ -38,9 +38,15 @@ Open **Command Prompt** and type:
 
 ```bash
 dot -V
+```
+If success, you will see 
+eg. 
+```bash
+dot - graphviz version 12.1.2 (20240928.0832)
+```
+
 ## Run the code
 For each notebook, press Run All in the menu bar to run all cells in the notebook.
-```
 
 ## Project Structure
 ```
