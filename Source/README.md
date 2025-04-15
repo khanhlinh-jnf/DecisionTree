@@ -4,6 +4,9 @@ All libraries needed are in the `requirements.txt` file. You can install them us
 pip install -r requirements.txt
 ```
 
+## Download Graphviz
+
+
 ## Run the code
 For each notebook, press Run All in the menu bar to run all cells in the notebook.
 
@@ -25,3 +28,4 @@ DecisionTree/
 │   └── wine.ipynb                       # General notebook for wine-related tasks
 └── README.md                         
 ```
+
