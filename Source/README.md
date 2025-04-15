@@ -4,25 +4,24 @@ All libraries needed are in the `requirements.txt` file. You can install them us
 pip install -r requirements.txt
 ```
 
-# 📌 How to Install Graphviz on Windows
+## 📌 How to Install Graphviz on Windows
 
 To use the `graphviz` library in Python for visualizing decision trees or graphs, you need to install the **Graphviz** software and add it to the system `PATH`. Follow the detailed instructions below:
 
 ---
 
-## 🔧 Step 1: Download and Install Graphviz
+### 🔧 Step 1: Download and Install Graphviz
 
-### 📥 Download Graphviz:
+#### 📥 Download Graphviz:
 - Visit the official website: [https://graphviz.org/download/](https://graphviz.org/download/)
 - Download the Windows version (`.zip`)
 - Extract the contents to a folder, e.g., `C:\Graphviz`.
 
 ---
 
-## ⚙️ Step 2: Add Graphviz to PATH
+### ⚙️ Step 2: Add Graphviz to PATH
 
-1. Locate the `bin` folder:
-   - For `.zip` extractions: `C:\Graphviz\bin`
+1. Locate the `bin` folder: `C:\Graphviz\bin`
 
 2. Add the path to system environment variables:
    - Press `Windows + R`, type `sysdm.cpl`, and hit Enter
@@ -33,7 +32,7 @@ To use the `graphviz` library in Python for visualizing decision trees or graphs
 
 ---
 
-## ✅ Step 3: Verify Installation
+### ✅ Step 3: Verify Installation
 
 Open **Command Prompt** and type:
 
@@ -41,6 +40,7 @@ Open **Command Prompt** and type:
 dot -V
 ## Run the code
 For each notebook, press Run All in the menu bar to run all cells in the notebook.
+```
 
 ## Project Structure
 ```
