@@ -62,6 +62,6 @@ DecisionTree/
 │   ├── age_prediction.ipynb             # Notebook for age prediction
 │   ├── breast_cancer.ipynb              # Notebook for breast cancer classification
 │   ├── wine_quality.ipynb               # Notebook for wine quality classification
-│   └── wine.ipynb                       # General notebook for wine-related tasks
-└── README.md                         
+│   |── wine.ipynb                       # General notebook for wine-related tasks
+|   |─ README.md                         
 ```
