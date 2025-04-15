@@ -40,7 +40,6 @@ Open **Command Prompt** and type:
 dot -V
 ```
 If success, you will see 
-eg. 
 ```bash
 dot - graphviz version 12.1.2 (20240928.0832)
 ```
