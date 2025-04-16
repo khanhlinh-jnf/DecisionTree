@@ -4,7 +4,6 @@ All libraries needed are in the `requirements.txt` file. You can install them us
 pip install -r requirements.txt
 ```
 
-<<<<<<< HEAD
 ## Download Graphviz
 
 =======
@@ -47,7 +46,6 @@ If successful, you will see
 ```bash
 dot - graphviz version 12.1.2 (20240928.0832)
 ```
->>>>>>> 4c35f7822bec19dd7b7de35ce6489b0040238a3b
 
 ## Run the code
 For each notebook, press Run All in the menu bar to run all cells in the notebook.
